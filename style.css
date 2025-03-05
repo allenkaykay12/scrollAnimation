@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Comic Sans MS", Arial, sans-serif;
-  background-image: url("scrollAnimation/images/background.jpg");
+  background-image: url("images/background.jpg");
   color: white;
   text-align: center;
   overflow-x: hidden;
